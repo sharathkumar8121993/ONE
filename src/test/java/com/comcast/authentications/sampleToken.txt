@@ -1,0 +1,6 @@
+44d4fd4eff30154e852996e51e32ff19
+
+Client ID	sdet18_2021
+Client Secret  44d4fd4eff30154e852996e51e32ff19
+Redirect URI	http://spdermanexample.com
+http://coop.apps.symfonycasts.com/token
